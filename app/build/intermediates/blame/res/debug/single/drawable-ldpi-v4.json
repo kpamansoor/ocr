@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\imagepicker_ic_image.png",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\d503c5dcf52a7d64421ca6bfc7387ae4ce38e69e\\output\\res\\drawable-ldpi-v4\\imagepicker_ic_image.png"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\imagepicker_ic_back.png",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\d503c5dcf52a7d64421ca6bfc7387ae4ce38e69e\\output\\res\\drawable-ldpi-v4\\imagepicker_ic_back.png"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\imagepicker_ic_selected.png",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\d503c5dcf52a7d64421ca6bfc7387ae4ce38e69e\\output\\res\\drawable-ldpi-v4\\imagepicker_ic_selected.png"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\imagepicker_ic_camera.png",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\d503c5dcf52a7d64421ca6bfc7387ae4ce38e69e\\output\\res\\drawable-ldpi-v4\\imagepicker_ic_camera.png"
+    }
+]

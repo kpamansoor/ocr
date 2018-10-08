@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.google.android.gms:play-services-vision-common-15.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/971937745db8d77240b0d3187f5326d808789a0a/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/971937745db8d77240b0d3187f5326d808789a0a/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

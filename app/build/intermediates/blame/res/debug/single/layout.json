@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\113c34b02334cabb0488a491bb1de3387b659a07\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imagepicker_activity_picker.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\d503c5dcf52a7d64421ca6bfc7387ae4ce38e69e\\output\\res\\layout\\imagepicker_activity_picker.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\113c34b02334cabb0488a491bb1de3387b659a07\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crop_image_activity.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\3d3cf46bfdfc26fe85cb8baaf46aa998bfa4d6fd\\output\\res\\layout\\crop_image_activity.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imagepicker_snackbar.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\d503c5dcf52a7d64421ca6bfc7387ae4ce38e69e\\output\\res\\layout\\imagepicker_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\2d0be3350c0ad87a8430598752a1614aacff411c\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imagepicker_item_folder.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\d503c5dcf52a7d64421ca6bfc7387ae4ce38e69e\\output\\res\\layout\\imagepicker_item_folder.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\00f9ec49f80b87b7521df5795811b6ec5eb0a69c\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crop_image_view.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\3d3cf46bfdfc26fe85cb8baaf46aa998bfa4d6fd\\output\\res\\layout\\crop_image_view.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\113c34b02334cabb0488a491bb1de3387b659a07\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_how_it_works.xml",
+        "source": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\src\\main\\res\\layout\\activity_how_it_works.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imagepicker_activity_camera.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\d503c5dcf52a7d64421ca6bfc7387ae4ce38e69e\\output\\res\\layout\\imagepicker_activity_camera.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ocr_capture.xml",
+        "source": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\src\\main\\res\\layout\\ocr_capture.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imagepicker_toolbar.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\d503c5dcf52a7d64421ca6bfc7387ae4ce38e69e\\output\\res\\layout\\imagepicker_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imagepicker_item_image.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\d503c5dcf52a7d64421ca6bfc7387ae4ce38e69e\\output\\res\\layout\\imagepicker_item_image.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_text.xml",
+        "source": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\src\\main\\res\\layout\\activity_detail_text.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\113c34b02334cabb0488a491bb1de3387b659a07\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ocrhistory.xml",
+        "source": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\src\\main\\res\\layout\\activity_ocrhistory.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\00f9ec49f80b87b7521df5795811b6ec5eb0a69c\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\layout\\design_navigation_item_separator.xml"
+    }
+]

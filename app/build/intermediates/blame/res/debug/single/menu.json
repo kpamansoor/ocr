@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_history.xml",
+        "source": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\src\\main\\res\\menu\\menu_history.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\3d3cf46bfdfc26fe85cb8baaf46aa998bfa4d6fd\\output\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\src\\main\\res\\menu\\menu.xml"
+    }
+]

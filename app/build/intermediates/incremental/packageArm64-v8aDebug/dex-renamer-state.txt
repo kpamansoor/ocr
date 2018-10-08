@@ -1,0 +1,7 @@
+#Thu Jun 07 15:34:38 SGT 2018
+base.0=D\:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_46b4f07f135de5e71044b1639f39e6efaa2a14cb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_06ab85537655f829d9f7bd693d5e6b4b7df37a52\\classes.dex
+base.1=D\:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_06ab85537655f829d9f7bd693d5e6b4b7df37a52
+file.0=D\:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_46b4f07f135de5e71044b1639f39e6efaa2a14cb\\classes.dex

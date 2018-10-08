@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\blinking_animation.xml",
+        "source": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\src\\main\\res\\anim\\blinking_animation.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\4dc7d67c48a7478049ed3485f6210f76af1c4517\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\00f9ec49f80b87b7521df5795811b6ec5eb0a69c\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\00f9ec49f80b87b7521df5795811b6ec5eb0a69c\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\L4208412\\.android\\build-cache\\e740efdeedf2d54549ab77202a34a3f5618ddccd\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

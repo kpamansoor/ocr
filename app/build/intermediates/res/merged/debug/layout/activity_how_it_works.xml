@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.android.gms.samples.vision.ocrreader.HowItWorksActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/icon"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="OCR Camera"
+                    android:fontFamily="sans-serif-condensed"
+                    android:textSize="20dp"
+                    android:textColor="#FFF"/>
+            </LinearLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="* How it works?"
+                android:layout_margin="3dp"
+                android:textStyle="bold|italic"
+                android:fontFamily="sans-serif-condensed"
+                android:textSize="20dp"
+                android:textColor="#FFF"/>
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="250dp"
+                android:layout_margin="2dp"
+                android:layout_gravity="center"
+                android:src="@drawable/screenshot2"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- Focus camera to the text / document.\n- App will auto recognize texts and mark with squares.\n- Tap on required square for more options like copy, play, share, translate etc."
+                android:layout_margin="10dp"
+                android:fontFamily="sans-serif-condensed"
+                android:textSize="16dp"
+                android:textColor="#FFF"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="* Why OCR Camera?"
+                android:layout_margin="3dp"
+                android:textStyle="bold|italic"
+                android:fontFamily="sans-serif-condensed"
+                android:textSize="20dp"
+                android:textColor="#FFF"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="- It reads text so fast (less than a 1 sec).\n- Identifies mobile number, so can trigger Call or WhatsApp.\n- Identifies email and trigger email.\n- Completely Free."
+                android:layout_margin="10dp"
+                android:fontFamily="sans-serif-condensed"
+                android:textSize="16dp"
+                android:textColor="#FFF"/>
+            <Button style="@style/Widget.AppCompat.Button.Borderless.Colored"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Close"
+                android:id="@+id/button"
+                android:enabled="true"
+                android:layout_gravity="right"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

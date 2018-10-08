@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.android\build-cache\3d3cf46bfdfc26fe85cb8baaf46aa998bfa4d6fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3a81d9431bc9c7e1e71d664f0227094581bea04">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\classes_3579e722c6dd5e1659d821187405cfa41ef9351f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.android\build-cache\eb779369b2ba8151d85ac724a6a992abffc37c49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\classes_73d7d4853d2076755e3c24c10bc35ceba03638be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.android\build-cache\00680aefa72c7c37cea2ccb8299667424ea914e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a42ba04bb2827253bc6136c84550252959dff63">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\classes_4890b645734d0cba9cb1f4c8d4abb7866561877a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.android\build-cache\d503c5dcf52a7d64421ca6bfc7387ae4ce38e69e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="871e2895136f44c9020a2b50611c97a7c7429e79">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\classes_d5fba04546ff1744aaee4d2b60ec7e576435353b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.android\build-cache\4b0aa73acbf93f3431f289465ff0ad652515191e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\classes_441e5cdba7d645c0ed8356ce67cd85c30c98d8ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.android\build-cache\beead5ea7916763e6de6d3718c7c8efb8921986c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="275c273ff0c089acd135aea4c92439ffe2c6ac46">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\classes_2063fc69594b964673e94333082f180538045172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0\47c487cc4e64e6ab127a517669ca9a7b49f8c61d\gifdecoder-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\gifdecoder-4.0.0_064ace517ffb912c040cc1a468a3ea07178658ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.android\build-cache\ffec6ba25cfbb0b7375cd4a953c5c3c8d35858c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da1a8e3ba8a4991954d213b26fca8f1d31a83975">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\classes_cfcf1f097bd3ce6342dd6431bf3affc9ab3e7bf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.android\build-cache\946a17c1f96d675ae4d3fb99e1b4f3287825ab36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\classes_b868b708f60e19742767c3e43ff31fa523fdeb2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.android\build-cache\38cbccdf08096c50881d505d582719b2e3f25296\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="921b1c4306b10e7de53574523eb7f7144bd0707f">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\classes_47f0647e9da36bc8db9c0442e9f69c7ba933ae1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.android\build-cache\00f9ec49f80b87b7521df5795811b6ec5eb0a69c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\classes_60b33a5cc9b167d834ddfcec942296e707eb3752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Program Files\Android\Android Studio\gradle\m2repository\org\jetbrains\annotations\13.0\annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\annotations-13.0_206b3bbe91f5ddd62c6b8e2444ca1f22089e3c91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0\d88059003509074dd59fa226c822724bcf5ec0ca\disklrucache-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\disklrucache-4.0.0_41e03da3fa32f6f80dda17d26eb6b94014335cfa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_06ab85537655f829d9f7bd693d5e6b4b7df37a52\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.2.0\25eb440d6eeb9fc60299121020fe726eb2100d03\kotlin-stdlib-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25eb440d6eeb9fc60299121020fe726eb2100d03">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.2.0_046181dbcf45ff5ca90551f731f59c4410b73187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.android\build-cache\0c23475cf4b3de9f2a9a096eaf28a8c97cdef14d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a45ff82ddd2bfe93e26e1cc59d3781d878c99d0a">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\classes_a386911a1f6c7dd336b40d5b734dd41ac3408a1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.2.0\ec8b969e26fbcf2265a4d1a1539c4d1d4c5af380\kotlin-stdlib-jre7-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec8b969e26fbcf2265a4d1a1539c4d1d4c5af380">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jre7-1.2.0_367b645ad8729bf8f4629dcc7415b8f179ebd002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.android\build-cache\cea3d454eb82d7802f3626bdb84409b44bcfbaea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a10332e561dbad9fd003560979e6202383d0d2c">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\classes_1d99d6193d9fcba7d0374a2fcb5673e6e632b1a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.android\build-cache\2d0be3350c0ad87a8430598752a1614aacff411c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\classes_06a333294780c90fe22c68191cd44354712bed9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0\dff931af436f0a2815d0109ab2258bbce2d6275d\glide-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\glide-4.0.0_6301e90ef3217d7866b1ef45f6d0cfda1e266464.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4c97768e649545a5b655e2cf008990c2c922e8a">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_46b4f07f135de5e71044b1639f39e6efaa2a14cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0\f80192e6fd828d41c7da6f3552b0bef5d89cb26e\annotations-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\annotations-4.0.0_40973e3188fbb248acae39599bacfb7b86f3dfea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\L4208412\.android\build-cache\cf50032df17ae5b881ef4f5406fd3d1dba4113eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\Experiments\Google OCR\android-vision\visionSamples\ocr-codelab\ocr-reader-complete\app\build\intermediates\pre-dexed\debug\classes_0684ec7917b2d851dfcb613d8e4f91242e2b1e56.jar" />
+    </item>
+
+</items>

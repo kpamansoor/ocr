@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_vert_white_24dp.png",
+        "source": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\src\\main\\res\\drawable-hdpi\\ic_more_vert_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zoom1.png",
+        "source": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\src\\main\\res\\drawable-hdpi\\zoom1.png"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zoom.png",
+        "source": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\src\\main\\res\\drawable-hdpi\\zoom.png"
+    },
+    {
+        "merged": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_crop_free_black_48dp.png",
+        "source": "D:\\Experiments\\Google OCR\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-complete\\app\\src\\main\\res\\drawable-hdpi\\ic_crop_free_black_48dp.png"
+    }
+]

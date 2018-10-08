@@ -1,0 +1,11 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_clear"
+        android:icon="@drawable/common_full_open_on_phone"
+        android:title="Clear"
+        android:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+
+</menu>
